@@ -1,0 +1,4 @@
+"""
+Tests for recommendations API
+"""
+
